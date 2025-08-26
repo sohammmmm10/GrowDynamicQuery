@@ -50,7 +50,3 @@ Pandas / SQL / CSV Processing
 Streamlit (optional UI)
 
 
----
-
-👉 Just copy–paste this into **README.md**.  
-Do you also want me to generate the **requirements.txt file content separately** so you can paste it directly into a file too?
